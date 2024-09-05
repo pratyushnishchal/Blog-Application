@@ -7,3 +7,4 @@ Built a Blog web application using Spring MVC, Hibernate, SQL, JSP. In this appl
 * view other users post, view what posts they have posted in the website.
 * update and delete the blog.
 * search the blogs.
+* Like the blogs
